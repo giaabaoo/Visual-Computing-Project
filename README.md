@@ -1,2 +1,2 @@
 # Visual-Computing-Project
-Bilateral filtering + Seam Carving implementation in MATLAB
+Bilateral Filtering + Seam Carving implementation in MATLAB
